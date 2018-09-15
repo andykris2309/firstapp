@@ -1,0 +1,62 @@
+/* Aqui van los estilos CSS - esto es un comentario XD */
+
+/*****Ejemplos*****/
+
+/*
+
+nombreEtiqueta{
+	propiedad: valor;
+}
+
+#nombreDeId{
+	propiedad: valor;
+}
+
+.nombreDeClase{
+	propiedad: valor;
+}
+
+*/
+body{
+	font-family:Georgia, Tahoma, Arial; /* tipo de fuente para todo el documento HTML */
+	font-size:16px;	/* tamaño de fuente para todo el documento HTML */
+}
+
+#titulo1{
+	border-radius:5px; /* borde redondeado con 5px de radio en las cuatro esquinas */
+	background-color:#F60; /* color de fondo naranja - notacion hexadecimal */
+	color:#FFF; /* color de texto blanco - notacion hexadecimal */
+	padding:7px; /* relleno interno de 7px a los cuatro lados */
+	text-align:center; /* texto alineado al centro */
+}
+
+/* 1. */
+.derecha{
+
+}
+
+/* 2. */
+
+
+/* 3. */
+
+
+/* 4. */
+
+
+/* 5. */
+
+
+/* 6. */
+
+
+/* 7. */
+
+
+/* 8. */
+
+
+/* 9. */
+
+
+/* 10. */
